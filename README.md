@@ -2,7 +2,6 @@
 <h3 align="center">"Success is not final, failure is not fatal: It is the courage to continue that counts."</h3>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/23375153/223106569-78248135-dd3c-45a4-8d1e-652f7ba67f3e.gif" width="700"/  
 </p>
 <br>
 <hr>
