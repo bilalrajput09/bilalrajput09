@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bilal Ahmed Full Stack Web Developer</h1>
-<h3 align="center">"Success is not final, failure is not fatal: It is the courage to continue that counts."</h3>
-
-<p align="center">
-</p>
+# Hey There! 👋
+**I'm Bilal Ahmed (he/they)** - I'm a fullstack developer, designer, moderator, and Microverse graduate. I work on random projects in my free time, a lot involving Discord!
 <br>
 <hr>
 
@@ -11,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Ruby on Rails** and **React** based projects
 
 - ⚡ Fun fact **I love to travel for the unique personal and cultural experiences it provides.** 💭
+
+- 👨‍💻  <a href="https://bilalrajput09.github.io/portfolio_fullstack/">See Projects</a>
 
 ## Connect with me 🤝
 
