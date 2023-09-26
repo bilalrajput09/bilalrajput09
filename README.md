@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Bilal Ahmed Full Stack Web Developer</h1>
 <h3 align="center">"Success is not final, failure is not fatal: It is the courage to continue that counts."</h3>
 
 <p align="center">
 </p>
 <br>
 <hr>
-  
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/23375153/223115967-55c50fc5-f55d-419c-9944-f10be04aae45.gif" width="530px" height="auto"/>
 
-- 🔭 I’m currently working on **Web APIs.**
+- 🌱 I am deepening my understanding of **Ruby on Rails** by exploring its advanced mechanisms.
 
-- 🌱 I’m currently learning **JavaScript, React, Redux**
-
-- 🤝 I’m looking to get deep into **Blockchain Development.**
-
-- 💬 Ask me about **CSS, Javascript and React**
+- 👯 I’m looking to collaborate on **Ruby on Rails** and **React** based projects
 
 - ⚡ Fun fact **I love to travel for the unique personal and cultural experiences it provides.** 💭
 
@@ -28,15 +22,13 @@
 
 </br>
 
-# 💻 Tech Stack:
+# 💻 Languages and Tools:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black)  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://redux.js.org/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></p>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,figma,react,redux,ruby,babel,bash,cpp,git,github,heroku,ai,jest,mysql,netlify,postgres,postman,rails,regex,sqlite,vscode,bootstrap,sass,webpack,eslint 
+)](https://skills.thijs.gg)
+
+   
 
 ## GitHub Stats 🚀
 
