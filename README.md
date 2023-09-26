@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love to travel for the unique personal and cultural experiences it provides.** 💭
 
-- 👨‍💻  <a href="https://bilalrajput09.github.io/portfolio_fullstack/">See Projects</a>
+- 👨‍💻  <a href="https://bilalrajput09.github.io/portfolio_fullstack/" target="_blank" >See Projects</a>
 
 ## Connect with me 🤝
 
