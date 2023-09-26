@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Bilal Ahmed (he/they)** - I'm a fullstack developer, designer, moderator, and Microverse graduate. I work on random projects in my free time, a lot involving Discord!
+**I'm Bilal Ahmed** - I'm a fullstack developer, designer, moderator, and Microverse graduate. I work on random projects in my free time, a lot involving Discord!
 <br>
 <hr>
 
